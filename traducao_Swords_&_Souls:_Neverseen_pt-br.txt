@@ -1,0 +1,32 @@
+Como instalar a tradução PT-BR para Swords & Souls: Neverseen
+
+Se seu sistema é Windows:
+
+Extraia todos os arquivos da pasta baixada para o seu computador.
+
+Abra a pasta windows_bin_x86_64 e execute o programa aplicador de patch.
+
+No campo "Original file" (Arquivo original), clique no ícone da pasta e navegue até a pasta de instalação do jogo. O caminho padrão da Steam costuma ser:
+C:\Program Files (x86)\Steam\steamapps\common\Swords & Souls Neverseen\Swords & Souls Neverseen_Data
+
+Selecione o arquivo resources.assets original do jogo.
+
+No campo "XDelta patch" (Arquivo de patch), clique no ícone da pasta e selecione o arquivo traducao_ptbr.xdelta que veio junto com este download.
+
+Clique no botão "Apply patch". Aguarde a mensagem de sucesso (Patch successfully applied!). Pode fechar o programa e jogar.
+
+Se seu sistema é baseado em Linux:
+
+Extraia todos os arquivos da pasta baixada para o seu computador.
+
+Abra a pasta linuxGTK3_bin_x86_64. Certifique-se de dar permissão de execução ao programa aplicador de patch (nas propriedades do arquivo ou via terminal com chmod +x) e abra-o.
+
+No campo "Original file", navegue até a pasta do jogo e selecione o arquivo resources.assets.
+Se você usa a Steam em Flatpak, o caminho geralmente é:
+~/.var/app/com.valvesoftware.Steam/.steam/steam/steamapps/common/Swords & Souls Neverseen/Swords & Souls Neverseen_Data/
+Se você usa a Steam nativa do repositório:
+~/.local/share/Steam/steamapps/common/Swords & Souls Neverseen/Swords & Souls Neverseen_Data/
+
+No campo "XDelta patch", selecione o arquivo traducao_ptbr.xdelta disponibilizado neste download.
+
+Clique em "Apply patch" e aguarde a confirmação de sucesso. Pode fechar o programa e jogar.
