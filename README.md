@@ -1,0 +1,1 @@
+# traducao_Swords_-_Souls-_Neverseen_pt-br
